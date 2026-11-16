@@ -1,0 +1,8 @@
+numpy
+scipy
+trimesh
+fast-simplification
+pillow
+pytest
+rtree
+flask
